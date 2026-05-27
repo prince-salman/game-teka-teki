@@ -189,9 +189,9 @@ pub const BUTTON_PRIMARY_STYLE: &str = "\
     cursor: pointer; \
     letter-spacing: 2px; \
     text-transform: uppercase; \
-    transition: all 0.3s ease; \
     margin: 8px; \
-    min-width: 280px; \
+    width: 100%; \
+    max-width: 280px; \
     animation: pulseGlow 3s ease-in-out infinite;\
 ";
 
@@ -206,9 +206,9 @@ pub const BUTTON_SECONDARY_STYLE: &str = "\
     cursor: pointer; \
     letter-spacing: 2px; \
     text-transform: uppercase; \
-    transition: all 0.3s ease; \
     margin: 8px; \
-    min-width: 280px;\
+    width: 100%; \
+    max-width: 280px;\
 ";
 
 pub const INPUT_STYLE: &str = "\
@@ -238,7 +238,7 @@ pub const MAIN_PANEL_STYLE: &str = "\
     background: linear-gradient(180deg, #1a0f0a 0%, #150c07 100%); \
     border: 1px solid rgba(139, 69, 19, 0.3); \
     border-radius: 4px; \
-    padding: 32px; \
+    padding: 16px; \
     animation: fadeIn 0.6s ease-out;\
 ";
 
@@ -315,7 +315,7 @@ pub const PUZZLE_CONTAINER_STYLE: &str = "\
     background: rgba(42, 26, 16, 0.6); \
     border: 1px solid rgba(139, 69, 19, 0.4); \
     border-radius: 4px; \
-    padding: 28px; \
+    padding: 16px; \
     margin-top: 24px; \
     animation: fadeIn 0.5s ease-out;\
 ";

@@ -15,11 +15,11 @@ pub fn game_screen() -> Html {
     let chapter_data = get_chapter(state.current_chapter);
 
     let bg_img = if state.current_chapter <= 10 {
-        "assets/arc1.png"
+        "/assets/arc1.png"
     } else if state.current_chapter <= 20 {
-        "assets/arc2.png"
+        "/assets/arc2.png"
     } else {
-        "assets/arc3.png"
+        "/assets/arc3.png"
     };
 
     html! {
