@@ -1,0 +1,12 @@
+[build]
+  # Menggunakan skrip untuk mengunduh Trunk versi pre-built agar build lebih cepat (tidak perlu compile trunk dari nol)
+  command = "curl -sLO https://github.com/trunk-rs/trunk/releases/download/v0.18.8/trunk-x86_64-unknown-linux-gnu.tar.gz && tar -xzf trunk-x86_64-unknown-linux-gnu.tar.gz && rustup target add wasm32-unknown-unknown && ./trunk build --release"
+  
+  # Direktori hasil build dari Trunk yang akan di-hosting oleh Netlify
+  publish = "dist"
+
+# Konfigurasi agar routing tetap berjalan (berguna jika game memiliki multi-page routing)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
