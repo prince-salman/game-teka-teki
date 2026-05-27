@@ -1,0 +1,10 @@
+C:\Users\Salman\.gemini\antigravity\scratch\cetak-biru-berdarah\target\wasm32-unknown-unknown\release\deps\js_sys-96a5c5309ccfe7e7.d: C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\lib.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\mod.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\queue.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\task\singlethread.rs
+
+C:\Users\Salman\.gemini\antigravity\scratch\cetak-biru-berdarah\target\wasm32-unknown-unknown\release\deps\libjs_sys-96a5c5309ccfe7e7.rlib: C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\lib.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\mod.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\queue.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\task\singlethread.rs
+
+C:\Users\Salman\.gemini\antigravity\scratch\cetak-biru-berdarah\target\wasm32-unknown-unknown\release\deps\libjs_sys-96a5c5309ccfe7e7.rmeta: C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\lib.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\mod.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\queue.rs C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\task\singlethread.rs
+
+C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\lib.rs:
+C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\mod.rs:
+C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\queue.rs:
+C:\Users\Salman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\js-sys-0.3.99\src\futures\task\singlethread.rs:
